@@ -1,0 +1,12 @@
+{
+    "model": "DJI Mavic 3",
+    "weight": 1000,
+    "brand": "DJI",
+    "missions": [
+        "DJI Mavic 3",
+        "DJI Mavic 3",
+        "DJI Mavic 2 Zoom",
+        "DJI Mavic 2 Enterprise Advanced"
+    ],
+    "incidents": []
+}
